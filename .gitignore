@@ -1,0 +1,5 @@
+*.vcd
+*.fst
+*.vvp
+sim.out
+*.log
